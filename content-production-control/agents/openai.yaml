@@ -1,0 +1,7 @@
+interface:
+  display_name: "内容生产总控"
+  short_description: "从资料收集到发布文案的八步协作与交接流程"
+  default_prompt: "Use $content-production-control to turn a confirmed topic into voiceover-ready and publishing copy."
+
+policy:
+  allow_implicit_invocation: true
