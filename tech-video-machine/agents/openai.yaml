@@ -1,0 +1,4 @@
+interface:
+  display_name: "科技造片机"
+  short_description: "复用已验证的科技风模板、风险叙事、动作音效、预览检查与成片验收流程"
+  default_prompt: "使用 $tech-video-machine 将这份文案制作成科技风知识视频，并先完成预览验收。"
