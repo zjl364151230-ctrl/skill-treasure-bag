@@ -12,3 +12,11 @@
 调用名：`$content-production-control`
 
 安装到 Codex 的 Skills 目录后即可调用。
+
+### HyperFrames 视频交付
+
+目录：`hyperframes-video-delivery/`
+
+用于中文 HyperFrames 视频制作与交付，包含独立任务目录、低 token 恢复状态、预览/渲染/最终确认闸门、音频规则、安全归档、一次性 canonical 回写和最终复盘。
+
+调用名：`$hyperframes-video-delivery`

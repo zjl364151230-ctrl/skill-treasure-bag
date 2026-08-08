@@ -1,0 +1,7 @@
+interface:
+  display_name: "HyperFrames 视频交付"
+  short_description: "独立任务目录、三重确认闸门与低 token 视频交付流程"
+  default_prompt: "使用 $hyperframes-video-delivery 以独立任务目录和低 token 三重确认流程完成 HyperFrames 视频交付。"
+
+policy:
+  allow_implicit_invocation: true
