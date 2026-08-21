@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 编导爆款拆解"
+  short_description: "把对标内容转成可拍、可验证的 AI 编导生产包"
+  default_prompt: "使用 $yyl-ai-director-breakdown 拆解这个对标内容，并输出传播诊断、编导生产说明书和测试计划。"
+
+policy:
+  allow_implicit_invocation: true
