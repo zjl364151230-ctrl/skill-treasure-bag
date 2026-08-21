@@ -1,4 +1,4 @@
-# yyl-ai-director-breakdown
+# ai-director-viral-breakdown
 
 把对标内容拆成 AI 编导能直接使用的生产决策，而不只是内容摘要。
 
@@ -17,8 +17,8 @@
 
 ```bash
 git clone https://github.com/zjl364151230-ctrl/skill-treasure-bag.git /tmp/skill-treasure-bag
-cp -R /tmp/skill-treasure-bag/yyl-ai-director-breakdown ~/.codex/skills/
-bash ~/.codex/skills/yyl-ai-director-breakdown/scripts/check-deps.sh
+cp -R /tmp/skill-treasure-bag/ai-director-viral-breakdown ~/.codex/skills/
+bash ~/.codex/skills/ai-director-viral-breakdown/scripts/check-deps.sh
 ```
 
 依赖和本地 API 部署见 [INSTALL.md](INSTALL.md)。
@@ -26,7 +26,7 @@ bash ~/.codex/skills/yyl-ai-director-breakdown/scripts/check-deps.sh
 ## 使用
 
 ```text
-用 $yyl-ai-director-breakdown 拆解这条视频，给出 AI 编导生产包：<链接>
+用 $ai-director-viral-breakdown 拆解这条视频，给出 AI 编导生产包：<链接>
 ```
 
 ```bash
@@ -47,7 +47,7 @@ bash scripts/prepare-assets.sh "<链接>" [output_dir]
 ## 文件结构
 
 ```text
-yyl-ai-director-breakdown/
+ai-director-viral-breakdown/
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── INSTALL.md

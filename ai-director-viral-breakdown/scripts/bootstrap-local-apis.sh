@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Start the required local download APIs for yyl-ai-director-breakdown.
+# Start the required local download APIs for ai-director-viral-breakdown.
 
 set -euo pipefail
 

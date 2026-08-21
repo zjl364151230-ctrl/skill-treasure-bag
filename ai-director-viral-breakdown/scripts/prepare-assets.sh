@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Prepare evidence assets for yyl-ai-director-breakdown.
+# Prepare evidence assets for ai-director-viral-breakdown.
 # Output: metadata.json, video/audio/transcript, contact sheets, and manifest.txt.
 
 set -euo pipefail

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# yyl-ai-director-breakdown 依赖自检
+# ai-director-viral-breakdown 依赖自检
 # 跑这个看缺什么、对应装什么。所有检测都是只读,不会动你系统。
 
 set -u
@@ -10,7 +10,7 @@ miss()  { echo -e "${RED}✗${NC} $1"; }
 warn()  { echo -e "${YELLOW}!${NC} $1"; }
 hint()  { echo -e "  ${DIM}→ $1${NC}"; }
 
-echo "=== yyl-ai-director-breakdown 依赖自检 ==="
+echo "=== ai-director-viral-breakdown 依赖自检 ==="
 echo ""
 
 ESSENTIAL_MISS=0

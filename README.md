@@ -5,11 +5,11 @@
 
 ### AI 编导爆款拆解
 
-目录：`yyl-ai-director-breakdown/`
+目录：`ai-director-viral-breakdown/`
 
 将抖音、小红书、B站、YouTube 和公众号的单条内容或对标账号，转成传播诊断、画面与口播时间轴、主张证据表、可拍生产说明书和单变量测试计划。完整短视频拆解会结合元数据、Whisper 转写与视觉抽帧，不把单条样本推断成平台算法规律。
 
-调用名：`$yyl-ai-director-breakdown`
+调用名：`$ai-director-viral-breakdown`
 
 ### 内容生产总控
 
